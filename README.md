@@ -1,4 +1,4 @@
 # Demo
 This is my first repository
 <br>
-author - prakash
+author - prakash kumar
